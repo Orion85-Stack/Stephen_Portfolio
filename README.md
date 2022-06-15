@@ -1,7 +1,7 @@
 # Stephen_Portfolio
 Example data science and coding portfolio
 
-# Projects
+# **Projects**
 - in this section I detail the various projects that I have created and worked on
 
 ## [Project 1 : Data Science Salary Estimator : Project Overview](https://github.com/Orion85-Stack/Project-1_SalCalc)
@@ -16,7 +16,9 @@ Example data science and coding portfolio
 ## Project 4 : 
 - Testing site
 
-# Visualisations
+---
+
+# **Visualisations**
 - In this section I detail the various visualisations that I have done on both Power BI and Tableau
 
 ## Power BI
