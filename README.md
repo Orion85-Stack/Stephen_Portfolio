@@ -1,4 +1,13 @@
 # Stephen_Portfolio
+
+Welcome to my portfolio where I showcase what I have learned since I started on my journey programming and delving
+into data science. 
+
+It has been an interesting journey with a lot of turns, hesitations and returns, but I am getting there and
+building myself one day at a time.
+
+This website is still a lot of work away from being perfect, but one has to start somewhere. Right?
+
 Example data science and coding portfolio
 
 # **Projects**
