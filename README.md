@@ -31,12 +31,8 @@ Example data science and coding portfolio
 - In this section I detail the various visualisations that I have done on both Power BI and Tableau
 
 ## Power BI
-<details open>
-  <summary>Visualasations</summary>
-  
-  * Spend budget vs Economic indicators
-  
- </details>
+- [Please see link to my Power BI profile]()
  
 
 ## Tableau
+- [Please see link to my Tableau Public Profile](https://public.tableau.com/app/profile/stephen3182)
