@@ -27,6 +27,12 @@ Example data science and coding portfolio
 
 ---
 
+# Kaggle
+- Here you can have a look at my kaggle profile and what I have created and worked on through Kaggle.
+- [Please click here for my kaggle profile](https://www.kaggle.com/stephenmare)
+
+---
+
 # **Visualisations**
 - In this section I detail the various visualisations that I have done on both Power BI and Tableau
 
@@ -42,3 +48,8 @@ Example data science and coding portfolio
 - In this section I showcase the various websites that I have developed.
 
 ## Website 01
+
+---
+
+# LinkedIn Profile
+- Please have a look at my [LinkedIn](www.linkedin.com/in/stephenmare) profile.
