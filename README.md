@@ -35,12 +35,6 @@ Example data science and coding portfolio
 - [Please see link to my Tableau Public Profile](https://public.tableau.com/app/profile/stephen3182)
 
 ---
-# **Websites created**
-- In this section I showcase the various websites that I have developed.
-
-## Website 01
-
----
 
 # LinkedIn Profile
 - Please have a look at my [LinkedIn](www.linkedin.com/in/stephenmare) profile.
