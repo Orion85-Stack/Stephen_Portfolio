@@ -1,7 +1,7 @@
-# Stephen_Portfolio
+# Kairos Consulting Portfolio
 
 Welcome to my portfolio where I showcase what I have learned since I started on my journey programming and delving
-into data science. 
+into Data Science. 
 
 It has been an interesting journey with a lot of turns, hesitations and returns, but I am getting there and
 building myself one day at a time.
